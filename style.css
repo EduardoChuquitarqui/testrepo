@@ -1,0 +1,4 @@
+body {background-color:black;font-family:arial;color:white}/*valores de la estetica del elemento Body*/
+h1{color:grey;font-family:verdana}/*valores de la estetica del elemento h1*/
+.maindiv {background-color:white; color:black; width:300px; padding:20px;/*valores de la estetica del id maindiv*/
+border-radius: 25px; align-items: center;}
